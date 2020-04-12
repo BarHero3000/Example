@@ -1,3 +1,5 @@
 Well look what we found here.
 
 Making a change to practice with Git.
+
+Testing out the Branch function..
